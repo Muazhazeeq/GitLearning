@@ -4,7 +4,7 @@ I am learning Git and GitHub while working toward building and controlling my ow
 
 This repository will document my progress, mistakes, and discoveries along the way.
 
-Current phase: Learning Git basics.
+Current phase: Learning Git branches on main.
 
 Experiment branch test.
 
